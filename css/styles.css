@@ -17,6 +17,10 @@ body {
   font-family: "Avenir Next", Arial, sans-serif;
 }
 
+.coffee {
+  text-decoration: none;
+}
+
 h1 {
   margin-bottom: .3em;
 }
